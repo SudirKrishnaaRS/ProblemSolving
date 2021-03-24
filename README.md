@@ -1,1 +1,1 @@
-# Skillrack_DailyChallenge
+# Skillrack Daily Challenge Solutions
