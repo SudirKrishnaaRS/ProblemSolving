@@ -1,5 +1,4 @@
-//Sudir krishnaa RS
-//sudirkrish17@gmail.com
+//Sudir Krishnaa RS
 //LinkedIn: https://www.linkedin.com/in/sudirkrishnaars/
 
 import java.util.*;
